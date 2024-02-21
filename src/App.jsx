@@ -9,6 +9,15 @@ function App() {
   return (
     <h1 className="text-3xl font-bold underline">
       Hello world!
+      <div className='Hero'>
+           <ul>
+            <li>HOme</li>
+            <li>Contact</li>
+            <li>Services</li>
+            <li>Help?</li>
+            <li>Cart</li>
+           </ul>        
+      </div>
     </h1>
   )
 }
