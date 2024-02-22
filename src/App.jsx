@@ -18,6 +18,7 @@ function App() {
             <li>Cart</li>
            </ul>        
       </div>
+      <div><a href="">THE HEITAGE</a></div>
     </h1>
   )
 }
