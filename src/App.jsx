@@ -1,19 +1,12 @@
 import React from 'react'
-import navbar from './components/navbar'
+import Navbar from './components/Navbar'
 
-function App() {
-  const [count, setCount] = useState(0)
-
+const App = () => {
   return (
-    <>
     <div>
-      huguj
+      <Navbar />
     </div>
-    <div>bsdfgiuewhi</div>
-    </>
-    
   )
-  
 }
 
 export default App
