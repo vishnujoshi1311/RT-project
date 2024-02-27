@@ -39,7 +39,12 @@ const Navbar = () => {
          
          <div className='fixed top-0 left-0 w-[300px] h-screen bg-white z-10 duration-300'>
           <AiOutlineClose size={30} className='absolute right-4 top-4 cursor-pointer'/>
+          <h2 className='text-2xl p-4'>Best <span>Eats</span></h2>
 
+          </div>
+
+          <div>
+            <h1>the bad</h1>
           </div>
 
           
