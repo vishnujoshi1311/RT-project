@@ -47,6 +47,10 @@ const Navbar = () => {
             <h1>the bad</h1>
           </div>
 
+          <div>
+            <h1>the bad</h1>
+          </div>
+
           
 
 
