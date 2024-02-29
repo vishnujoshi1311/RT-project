@@ -43,13 +43,9 @@ const Navbar = () => {
 
           </div>
 
-          <div>
-            <h1>the bad</h1>
-          </div>
+          <div>iudhfrgnm</div>
 
-          <div>
-            <h1>the bad</h1>
-          </div>
+     
 
           
 
